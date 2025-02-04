@@ -2,19 +2,26 @@
 
 Our casual, friendly online jam to learn about accessibility in Design Systems
 
+## Community & Support
+
 Join our Slack community to ask questions, share resources, and connect with other designers and developers interested in accessibility.
 
-- [Into Design Systems (IDS) Slack](https://intodesignsystems.slack.com/) and engage in the [#accessibility channel](https://intodesignsystems.slack.com/archives/C02T1SUCVEZ).
+- [Join Into Design Systems (IDS) Slack](https://intodesignsystems.slack.com/) 
+- [Engage in our #accessibility channel](https://intodesignsystems.slack.com/archives/C02T1SUCVEZ)
 
-And follow our accessibility hosts and advocates on LinkedIn:
-- [Sarah Massengale](https://www.linkedin.com/in/sarah-massengale-408069165/) - CPACC, ADS, blind, digital accessibility trainer 
-    - [Contact Sarah for consulting sessions](http://www.sma11y.com/)
-- [Marcelo Paiva](https://www.linkedin.com/in/mtpaiva/) - Creator of WCAG plugin for Figma
-    - [Schedule a 1:1 with Marcelo](https://mpaiva.youcanbook.me/)
+### Accessibility Hosts and Advocates
 
+#### Sarah Massengale
+- CPACC, ADS certified, blind, digital accessibility trainer 
+- [LinkedIn Profile](https://www.linkedin.com/in/sarah-massengale-408069165/)
+- [Book a consulting session](http://www.sma11y.com/)
+
+#### Marcelo Paiva
+- Creator of WCAG plugin for Figma
+- [LinkedIn Profile](https://www.linkedin.com/in/mtpaiva/)
+- [Schedule a 1:1 meeting](https://mpaiva.youcanbook.me/)
 
 ---
-
 
 ## Accessibility Standards & WCAG
 
@@ -24,9 +31,20 @@ WCAG (Web Content Accessibility Guidelines) is an internationally recognized set
 
 ### 2. What is the difference between WCAG levels A, AA, and AAA?
 
-- Level A: Basic accessibility requirements that all websites should meet.
-- Level AA: The recommended standard for most organizations, covering a broader range of disabilities.
-- Level AAA: The highest level of accessibility, which is difficult to achieve but ideal for highly inclusive experiences.
+**Level A**
+- Basic accessibility requirements that all websites should meet
+- Fundamental access requirements
+- Minimum level of compliance
+
+**Level AA**
+- Recommended standard for most organizations
+- Covers broader range of disabilities
+- Balance of achievable and impactful requirements
+
+**Level AAA**
+- Highest level of accessibility
+- Ideal for highly inclusive experiences
+- Most comprehensive but challenging to achieve
 
 ### 3. Are there other accessibility standards besides WCAG that UX designers should know about?
 
@@ -202,14 +220,14 @@ Regular accessibility audits should be part of the design and development cycle:
 
 ### Common Myths About Accessibility
 
-1. "Accessibility is only for blind users."  
-   → False! It benefits users with diverse disabilities, including mobility, cognitive, and auditory impairments.
+#### Myth 1: "Accessibility is only for blind users"
+→ False! It benefits users with diverse disabilities, including mobility, cognitive, and auditory impairments
 
-2. "ARIA fixes everything."  
-   → False! ARIA should be used only when semantic HTML doesn't provide the necessary accessibility.
+#### Myth 2: "ARIA fixes everything"
+→ False! ARIA should be used only when semantic HTML doesn't provide the necessary accessibility
 
-3. "Accessibility is too expensive."  
-   → False! Implementing accessibility from the start saves money by reducing costly retrofitting later.
+#### Myth 3: "Accessibility is too expensive"
+→ False! Implementing accessibility from the start saves money by reducing costly retrofitting later
 
 ## Appendix
 
@@ -220,17 +238,17 @@ Regular accessibility audits should be part of the design and development cycle:
 This decision tree helps you check if your component meets accessibility standards. Follow these steps in order:
 
 1. Start with WCAG A
-   - Make sure everyone can use your component.
-   - Check keyboard access, labels, focus visibility, and alt text for images.
+   - Make sure everyone can use your component
+   - Check keyboard access, labels, focus visibility, and alt text for images
 
 2. Move to WCAG AA if A is complete
-   - Improve contrast so text is easy to read.
-   - Make sure users can resize text without breaking the layout.
-   - Add captions for videos and check focus order.
+   - Improve contrast so text is easy to read
+   - Make sure users can resize text without breaking the layout
+   - Add captions for videos and check focus order
 
 3. Check if AAA is needed
-   - Some projects, like government or inclusive products, may need extra features.
-   - AAA includes sign language for videos, high contrast text, and more customization options.
+   - Some projects, like government or inclusive products, may need extra features
+   - AAA includes sign language for videos, high contrast text, and more customization options
 
 Your component is ready when all required levels are met.
 
