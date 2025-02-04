@@ -252,6 +252,64 @@ This decision tree helps you check if your component meets accessibility standar
 
 Your component is ready when all required levels are met.
 
+## Tools & Resources for UX Designers
+
+### Design Tools & Plugins
+
+#### Figma Plugins
+- [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker)
+- [Stark](https://www.figma.com/community/plugin/732603254453395948/Stark)
+- [Able – Friction free accessibility](https://www.figma.com/community/plugin/734693888346260052/Able-%E2%80%93-Friction-free-accessibility)
+- [Content Reel - Accessibility Edition](https://www.figma.com/community/plugin/731627216655469013/Content-Reel)
+- [WCAG Plugin](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)
+- [WCAG 2.2 Card Deck](https://www.figma.com/community/file/1409436654182046971/wcag-2-2-card-deck)
+
+#### Color Tools
+- [Contrast](https://usecontrast.com/) - macOS app for WCAG color compliance
+- [Leonardo](https://leonardocolor.io/) - Generate accessible color palettes
+- [Who Can Use](https://www.whocanuse.com/) - Color contrast checker with simulated vision types
+
+### Learning Resources
+
+#### Courses & Certification
+- [Web Accessibility by Google (Udacity)](https://www.udacity.com/course/web-accessibility--ud891) - Free course
+- [IAAP Certification](https://www.accessibilityassociation.org/certification) - Industry-recognized accessibility certifications
+- [Deque University](https://dequeuniversity.com/) - Comprehensive accessibility training
+
+#### Style Guides & Documentation
+- [Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/)
+- [Apple Accessibility Guidelines](https://developer.apple.com/design/human-interface-guidelines/accessibility)
+- [Material Design Accessibility](https://material.io/design/usability/accessibility.html)
+
+#### Articles & Newsletters
+- [A11y Weekly](https://a11yweekly.com/) - Weekly accessibility newsletter
+- [Accessibility Guidelines Posters](https://github.com/UKHomeOffice/posters/tree/master/accessibility) - Home Office Digital
+- [Smashing Magazine's Accessibility Guide](https://www.smashingmagazine.com/guides/accessibility/)
+
+### Testing Tools
+
+#### Automated Testing
+- [axe DevTools](https://www.deque.com/axe/devtools/) - Browser extension for accessibility testing
+- [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Automated auditing tool
+
+#### Screen Readers
+- [VoiceOver](https://www.apple.com/accessibility/vision/) - Built into macOS and iOS
+- [NVDA](https://www.nvaccess.org/) - Free screen reader for Windows
+- [ChromeVox](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) - Chrome extension screen reader
+
+### Communities & Support
+
+#### Forums & Communities
+- [WebAIM Mailing List](https://webaim.org/discussion/)
+- [A11y Slack](https://web-a11y.herokuapp.com/)
+- [Accessibility Developers Guide Forum](https://github.com/accessibility/accessibility-developer-guide/discussions)
+
+#### Accessibility Meetups
+- [A11y Project Events](https://www.a11yproject.com/events/)
+- [Accessibility London](https://www.meetup.com/London-Accessibility-Meetup/)
+- [Digital Accessibility & Inclusive Design](https://www.meetup.com/topics/digital-accessibility/)
+
 ```mermaid
 graph TD;
     A1[Start: Designing a Component] --> B1{Is it a core feature or interactive?};
