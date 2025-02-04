@@ -1,8 +1,20 @@
-# A11y Jam Sessions
+# A11y Jam Sessions - FAQs and Resources
 
 Our casual, friendly online jam to learn about accessibility in Design Systems
 
-## Frequently Asked Questions (FAQ)
+Join our Slack community to ask questions, share resources, and connect with other designers and developers interested in accessibility.
+
+- [Into Design Systems (IDS) Slack](https://intodesignsystems.slack.com/) and engage in the [#accessibility channel](https://intodesignsystems.slack.com/archives/C02T1SUCVEZ).
+
+And follow our accessibility hosts and advocates on LinkedIn:
+- [Sarah Massengale](https://www.linkedin.com/in/sarah-massengale-408069165/) - CPACC, ADS, blind, digital accessibility trainer 
+    - [Contact Sarah for consulting sessions](http://www.sma11y.com/)
+- [Marcelo Paiva](https://www.linkedin.com/in/mtpaiva/) - Creator of WCAG plugin for Figma
+    - [Schedule a 1:1 with Marcelo](https://mpaiva.youcanbook.me/)
+
+
+---
+
 
 ## Accessibility Standards & WCAG
 
