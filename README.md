@@ -283,7 +283,7 @@ Your component is ready when all required levels are met.
 
 #### Articles & Newsletters
 - [A11y Weekly](https://a11yweekly.com/) - Weekly accessibility newsletter
-- [Accessibility Guidelines Posters](https://github.com/UKHomeOffice/posters/tree/master/accessibility) - Home Office Digital
+- [Accessibility Guidelines Posters](https://github.com/UKHomeOffice/posters/) - Home Office Digital
 - [Smashing Magazine's Accessibility Guide](https://www.smashingmagazine.com/guides/accessibility/)
 
 ### Testing Tools
@@ -298,17 +298,7 @@ Your component is ready when all required levels are met.
 - [NVDA](https://www.nvaccess.org/) - Free screen reader for Windows
 - [ChromeVox](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) - Chrome extension screen reader
 
-### Communities & Support
 
-#### Forums & Communities
-- [WebAIM Mailing List](https://webaim.org/discussion/)
-- [A11y Slack](https://web-a11y.herokuapp.com/)
-- [Accessibility Developers Guide Forum](https://github.com/accessibility/accessibility-developer-guide/discussions)
-
-#### Accessibility Meetups
-- [A11y Project Events](https://www.a11yproject.com/events/)
-- [Accessibility London](https://www.meetup.com/London-Accessibility-Meetup/)
-- [Digital Accessibility & Inclusive Design](https://www.meetup.com/topics/digital-accessibility/)
 
 ```mermaid
 graph TD;
